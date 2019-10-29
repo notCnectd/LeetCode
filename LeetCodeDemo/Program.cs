@@ -13,27 +13,32 @@ namespace LeetCodeDemo {
             //BinaryTree tree = new BinaryTree();
 
             //TreeNode node = tree.Create();
-            int[] arr = { 7, 1, 5, 3, 6, 4 };
-            int[] a2 = { 1,1,2};
+            int[] arr = { 2,0,2 };
+            int[] a2 = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
 
             //Console.WriteLine();
             //Median_of_Two_Sorted_Arrays.FindMedianSortedArrays(arr, a2);
             //Console.Write(Longest_Substring_Without_Repeating_Characters.LengthOfLongestSubstring("dvdf"));
             int[][] matrix = new int[][]{
-                new int[] {4,5 },
-                new int[] { 1,4 },
-                new int[] {0,1},
+                new int[] {-1 },
+                new int[] { 3,2 },
+                new int[] {1,-2,-1},
                 //new int[] { 8, 9 },
                 //new int[] { 1, 10 }
 
             };
-            int[][] aaaa = new int[2][];
-            Permutations_II p = new Permutations_II();
-            p.PermuteUnique(a2);
-
+            bool[][] dp = new bool[1][];
+            string aaaa = "avcsdf";
+            Multiply_Strings.Multiply("123", "456");
+            
+            Console.ReadLine();
+            
         }
 
 
+       
+
+        
 
         public static void reverse(int[] nums, int starr, int end) {
             for (int i = starr, j = end; i < j; i++, j--) {

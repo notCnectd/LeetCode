@@ -130,11 +130,15 @@
     <Compile Include="Medium\Evaluate Reverse Polish Notation.cs" />
     <Compile Include="Medium\Flatten Nested List Iterator.cs" />
     <Compile Include="Medium\H-Index.cs" />
+    <Compile Include="Medium\House Robber II.cs" />
     <Compile Include="Medium\House Robber.cs" />
     <Compile Include="Medium\LargestNumber.cs" />
+    <Compile Include="Medium\Longest Palindromic Substring.cs" />
     <Compile Include="Medium\Longest Substring Without Repeating Characters.cs" />
+    <Compile Include="Medium\Maximum Product Subarray.cs" />
     <Compile Include="Medium\Merge Intervals.cs" />
     <Compile Include="Medium\Minimum Path Sum.cs" />
+    <Compile Include="Medium\Multiply Strings.cs" />
     <Compile Include="Medium\Next Greater Element II.cs" />
     <Compile Include="Medium\Next Permutation.cs" />
     <Compile Include="Medium\Permutations II.cs" />
@@ -142,6 +146,7 @@
     <Compile Include="Medium\Pow%28x, n%29.cs" />
     <Compile Include="Medium\Remove Duplicates from Sorted Array II.cs" />
     <Compile Include="Medium\Rotate Image.cs" />
+    <Compile Include="Medium\Search in Rotated Sorted Array.cs" />
     <Compile Include="Medium\Set Matrix Zeroes.cs" />
     <Compile Include="Medium\Simplify Path.cs" />
     <Compile Include="Medium\Sort Colors.cs" />
@@ -149,9 +154,11 @@
     <Compile Include="Medium\Spiral Matrix.cs" />
     <Compile Include="Medium\Sum of Subarray Minimums.cs" />
     <Compile Include="Medium\Top K Frequent Elements.cs" />
+    <Compile Include="Medium\Triangle.cs" />
     <Compile Include="Medium\Unique Paths.cs" />
     <Compile Include="Medium\Valid Sudoku.cs" />
     <Compile Include="Medium\Validate Stack Sequences.cs" />
+    <Compile Include="Medium\Word Break.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tree\Add One Row to Tree.cs" />
