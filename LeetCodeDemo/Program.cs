@@ -13,7 +13,7 @@ namespace LeetCodeDemo {
             //BinaryTree tree = new BinaryTree();
 
             //TreeNode node = tree.Create();
-            int[] arr = { 2,0,2 };
+            int[] arr = { 5, 7, 7, 8, 8, 10 };
             int[] a2 = { 0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1 };
 
             //Console.WriteLine();
@@ -28,8 +28,8 @@ namespace LeetCodeDemo {
 
             };
             bool[][] dp = new bool[1][];
-            string aaaa = "avcsdf";
-            Multiply_Strings.Multiply("123", "456");
+            
+           
             
             Console.ReadLine();
             

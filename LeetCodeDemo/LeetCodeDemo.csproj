@@ -128,6 +128,7 @@
     <Compile Include="Medium\Design Circular Deque.cs" />
     <Compile Include="Medium\Design Circular Queue.cs" />
     <Compile Include="Medium\Evaluate Reverse Polish Notation.cs" />
+    <Compile Include="Medium\Find First and Last Position of Element in Sorted Array.cs" />
     <Compile Include="Medium\Flatten Nested List Iterator.cs" />
     <Compile Include="Medium\H-Index.cs" />
     <Compile Include="Medium\House Robber II.cs" />
