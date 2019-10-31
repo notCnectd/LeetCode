@@ -124,6 +124,7 @@
     <Compile Include="Medium\Asteroid Collision.cs" />
     <Compile Include="Medium\Container With Most Water.cs" />
     <Compile Include="Medium\Daily Temperatures.cs" />
+    <Compile Include="Medium\Decode Ways.cs" />
     <Compile Include="Medium\Decoded String at Index.cs" />
     <Compile Include="Medium\Design Circular Deque.cs" />
     <Compile Include="Medium\Design Circular Queue.cs" />
@@ -142,6 +143,7 @@
     <Compile Include="Medium\Multiply Strings.cs" />
     <Compile Include="Medium\Next Greater Element II.cs" />
     <Compile Include="Medium\Next Permutation.cs" />
+    <Compile Include="Medium\Perfect Squares.cs" />
     <Compile Include="Medium\Permutations II.cs" />
     <Compile Include="Medium\Permutations.cs" />
     <Compile Include="Medium\Pow%28x, n%29.cs" />

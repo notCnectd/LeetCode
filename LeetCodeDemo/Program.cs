@@ -28,9 +28,11 @@ namespace LeetCodeDemo {
 
             };
             bool[][] dp = new bool[1][];
-            
-           
-            
+            string s = "0";
+            int a = Convert.ToInt32("32");
+            bool t = s == "0";
+
+
             Console.ReadLine();
             
         }
